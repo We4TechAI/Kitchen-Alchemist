@@ -2,6 +2,7 @@
 
 ![Kitchen Alchemist Banner](assets/banner.png) 
 
+---
 
 Transform your pantry ingredients into delicious recipes with AI magic! This Streamlit application powered by Groq's LLM API generates creative cooking ideas based on available ingredients and dietary preferences.
 
